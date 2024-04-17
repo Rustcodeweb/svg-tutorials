@@ -1,1 +1,22 @@
-# svg-tutorials
+# SVG tutorials
+
+- [Introduction to SVG](https://www.rustcodeweb.com/2024/04/introduction-to-svg.html)
+- [Getting Started with SVG](https://www.rustcodeweb.com/2024/04/getting-started-with-svg.html)
+- [Basic Shapes in SVG](https://www.rustcodeweb.com/2024/04/basic-shapes-in-svg.html)
+- [Paths and Curves in SVG](https://www.rustcodeweb.com/2024/04/paths-and-curves-in-svg.html)
+- [Text in SVG](https://www.rustcodeweb.com/2024/04/text-in-svg.html)
+- [Styling SVG with CSS](https://www.rustcodeweb.com/2024/04/styling-svg-with-css.html)
+- [SVG Transformations](https://www.rustcodeweb.com/2024/04/svg-transformations.html)
+- [SVG Filters and Effects](https://www.rustcodeweb.com/2024/04/svg-filters-and-effects.html)
+- [Clipping and Masking in SVG](https://www.rustcodeweb.com/2024/04/clipping-and-masking-in-svg.html)
+- [SVG Animation Basics](https://www.rustcodeweb.com/2024/04/svg-animation-basics.html)
+- [Advanced SVG Animation Techniques](https://www.rustcodeweb.com/2024/04/advanced-svg-animation-techniques.html)
+- [SVG Interactivity with JavaScript](https://www.rustcodeweb.com/2024/04/svg-interactivity-with-javascript.html)
+- [SVG Sprites and Symbols](https://www.rustcodeweb.com/2024/04/svg-sprites-and-symbols.html)
+- [Responsive SVG](https://www.rustcodeweb.com/2024/04/responsive-svg.html)
+- [Using SVG Icons](https://www.rustcodeweb.com/2024/04/using-svg-icons.html)
+- [Creating SVG Charts and Graphs](https://www.rustcodeweb.com/2024/04/create-svg-charts-and-graphs.html)
+- [SVG in Web Design](https://www.rustcodeweb.com/2024/04/svg-in-web-design.html)
+- [Integrating SVG with HTML and CSS](https://www.rustcodeweb.com/2024/04/integrating-svg-with-html-and-css.html)
+- [Exporting SVG from Design Tools](https://www.rustcodeweb.com/2024/04/exporting-svg-from-design-tools.html)
+- [SVG Best Practices](https://www.rustcodeweb.com/2024/04/svg-best-practices.html)
